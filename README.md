@@ -28,6 +28,17 @@ Exercícios desenvolvidos com a proposta de criar, manipular e entender, o que �
 
 <h3>:bulb:Habilidades Desenvolvidas<h3>
 <h5>Objetos.this :heavy_check_mark:</h5>
+<h5>__Proto__ :heavy_check_mark:</h5>
+<h5>NewObject :heavy_check_mark:</h5>
+<h5>class :heavy_check_mark:</h5>
+<h5>constructor :heavy_check_mark:</h5>
+<h5>extends :heavy_check_mark:</h5>
+<h5>Object private :heavy_check_mark:</h5>
+<h5>Setters :heavy_check_mark:</h5>
+<h5>Getters :heavy_check_mark:</h5>
+<h5>importe :heavy_check_mark:</h5>
+<h5>export :heavy_check_mark:</h5>
+<h5>default :heavy_check_mark:</h5>
 
 <h3>:link: Documentação</h3>
 <h5>:link: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes </h5>

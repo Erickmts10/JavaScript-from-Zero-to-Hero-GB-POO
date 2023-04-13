@@ -39,7 +39,7 @@ export default class User {
   }
 
   get ativo() {
-    return this.ativo;
+    return this.#ativo;
   }
 
   set nome(novoNome) {
