@@ -1,0 +1,13 @@
+{
+  "name": "javascript-from-zero-to-hero-gb-alura-poo",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> JavaScript-from-Zero-to-Hero-GrupoBoticario-Alura-Objetos</h1>",
+  "type": "module",
+  "main": "1.objeto.literal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
